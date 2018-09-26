@@ -1,0 +1,118 @@
+@charset "utf-8";
+.tag_bg {
+	background-color: #F8F8F8;
+	height: 50px;
+	line-height: 50px;
+	margin-bottom: 32px;
+}
+
+.trans7 {
+	-webkit-transition: all 0.7s ease-in-out;
+	-moz-transition: all 0.7s ease-in-out;
+	-ms-transition: all 0.7s ease-in-out;
+	-o-transition: all 0.7s ease-in-out;
+	transition: all 0.7s ease-in-out;
+}
+
+
+/*导航*/
+
+.tag_box .container {
+	border-bottom: 1px solid #f8f8f8;
+}
+
+.tag_box a:hover {
+	color: #e74c3c;
+}
+
+.pinpai_box a:hover {
+	color: #e74c3c;
+}
+
+.tag_box a,
+.pinpai_box a {
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	-ms-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
+}
+
+.nav_list li,
+.brand_list li {
+	font-size: 14px;
+	color: #4a4a4a;
+}
+
+.nav_list .brand_list li,
+.nav_list .brand_list2 li {
+	margin-left: 40px;
+}
+
+.nav_list li,
+.nav_list .brand_list li {
+	line-height: 48px;
+	float: left;
+}
+
+.nav_list ul,
+.nav_list .brand_list ul {
+	display: inline-block;
+}
+
+.brand_list {
+	margin-right: 30px;
+}
+
+.brand_list2 {
+	margin-right: 156px;
+}
+
+.yincang_nav,
+.yincang_brand {
+	width: 930px;
+	padding-bottom: 10px;
+	/*height: 28px;*/
+	line-height: 28px;
+	margin-left: 75px;
+	display: none;
+}
+
+.yincang_nav span,
+.yincang_brand span {
+	margin-right: 30px;
+	display: inline-block;
+}
+
+
+/*排序*/
+
+.paixu_box {
+	margin-right: 70px;
+	margin-top: 25px;
+	line-height: 30px;
+}
+
+.renqi_arr {
+	margin-left: 10px;
+	display: inline-block;
+}
+
+.paixu_box ul {
+	display: none;
+}
+
+.line {
+	margin-bottom: 50px;
+	border-bottom: 1px solid #F8F8F8;
+}
+.top-nav .line {
+    background-color: #e74c3c;
+    height: 1px;
+    width: 70px;
+    position: absolute;
+    bottom: -51px;
+    left: 50%;
+    margin-left: -35px;
+    display: none;
+}

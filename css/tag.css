@@ -1,0 +1,162 @@
+@charset "utf-8";
+
+/*图片第一部分*/
+
+del {
+	text-decoration: line-through;
+}
+
+.first .koukou a {
+	font-size: 13px;
+	color: #4A4A4A;
+}
+
+.first li {
+	text-align: left;
+	float: left;
+	height: 340px;
+	width: 222px;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-bottom: 20px;
+}
+
+.first .koukou {
+	margin-bottom: 4px;
+	padding-left: 16px;
+}
+
+.overflow {
+	overflow: hidden;
+	width: 1160px;
+}
+
+.first .taozhuang a {
+	font-size: 12px;
+	color: #828282;
+}
+
+.first .taozhuang {
+	height: 32px;
+	margin-bottom: 14px;
+	padding-left: 16px;
+}
+
+.red-box {
+	color: red;
+	padding-right: 10px;
+	padding-left: 16px;
+}
+
+.huise {
+	color: #828282;
+	font-size: 12px;
+}
+
+
+/*动画*/
+
+.trans3 {
+	-webkit-transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+	-ms-transition: all 0.5s ease-in-out;
+	-o-transition: all 0.5s ease-in-out;
+	transition: all 0.5s ease-in-out;
+}
+
+.first li:hover {
+	-webkit-box-shadow: 0px 5px 18px rgba(0, 0, 0, 0.1);
+	-moz-box-shadow: 0px 5px 18px rgba(0, 0, 0, 0.1);
+	box-shadow: 0px 5px 18px rgba(0, 0, 0, 0.1);
+}
+
+
+/*第二部分动画*/
+
+.secend .koukou a {
+	font-size: 13px;
+	color: #4A4A4A;
+}
+
+.secend li {
+	text-align: left;
+	float: left;
+	height: 340px;
+	width: 222px;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-bottom: 20px;
+}
+
+.secend .koukou {
+	margin-bottom: 4px;
+	padding-left: 16px;
+}
+
+.secend .taozhuang a {
+	font-size: 12px;
+	color: #828282;
+}
+
+.secend .taozhuang {
+	height: 32px;
+	margin-bottom: 14px;
+	padding-left: 16px;
+}
+
+.secend li:hover {
+	-webkit-box-shadow: 0px 5px 18px rgba(0, 0, 0, 0.1);
+	-moz-box-shadow: 0px 5px 18px rgba(0, 0, 0, 0.1);
+	box-shadow: 0px 5px 18px rgba(0, 0, 0, 0.1);
+}
+
+
+/*第三块动画*/
+
+.three .koukou a {
+	font-size: 13px;
+	color: #4A4A4A;
+}
+
+.three li {
+	text-align: left;
+	float: left;
+	height: 340px;
+	width: 222px;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-bottom: 20px;
+}
+
+.three .koukou {
+	margin-bottom: 4px;
+	padding-left: 16px;
+}
+
+.three .taozhuang a {
+	font-size: 12px;
+	color: #828282;
+}
+
+.three .taozhuang {
+	height: 32px;
+	margin-bottom: 14px;
+	padding-left: 16px;
+}
+
+.three li:hover {
+	-webkit-box-shadow: 0px 5px 18px rgba(0, 0, 0, 0.1);
+	-moz-box-shadow: 0px 5px 18px rgba(0, 0, 0, 0.1);
+	box-shadow: 0px 5px 18px rgba(0, 0, 0, 0.1);
+}
+
+.top-nav .line {
+	background-color: #e74c3c;
+	height: 1px;
+	width: 70px;
+	position: absolute;
+	bottom: -51px;
+	left: 50%;
+	margin-left: -35px;
+	display: none;
+}

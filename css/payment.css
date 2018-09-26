@@ -1,0 +1,134 @@
+@charset "utf-8";
+.order_details {
+	margin-top: 30px;
+	overflow: hidden;
+}
+
+.order_details dl {
+	width: 350px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+.order_details dl dt {
+	width: 70px;
+	float: left;
+	height: 70px;
+	margin-right: 28px;
+	background: url(http://ujipinwww.ufile.ucloud.com.cn/static/img/order_details.png) no-repeat;
+	background-size: auto 522px;
+	background-position: 0px -250px;
+}
+
+.order_details dl dd {
+	float: left;
+	vertical-align: middle;
+}
+
+.order_details dl dd h5 {
+	font-size: 22px;
+	color: #4A4A4A;
+	margin-top: 9px;
+	font-weight: normal;
+}
+
+.order_details dl dd p {
+	font-size: 18px;
+	color: #4A4A4A;
+	margin-top: 10px;
+}
+
+.pay_countdown {
+	width: 241px;
+	margin: 0 auto;
+	margin-top: 38px;
+	text-align: center;
+	font-size: 14px;
+	color: #4A4A4A;
+	overflow: hidden;
+	margin-bottom: 60px;
+}
+
+.pay_countdown span {
+	color: #e74c3c;
+	margin-left: 5px;
+	margin-right: 4px;
+}
+
+.item_h6 h6 {
+	padding-left: 20px;
+	font-size: 14px;
+	font-weight: normal;
+	color: #4A4A4A;
+	margin-top: 42px;
+}
+
+.item_h6 h4 {
+	margin-top: 26px;
+	margin-bottom: 42px;
+	padding-left: 20px;
+	font-size: 14px;
+	font-weight: normal;
+	color: #4A4A4A;
+}
+
+.item_h6 h4 span {
+	margin-right: 16px;
+}
+
+#payment_way {
+	margin-top: 42px;
+	padding-left: 22px;
+	margin-bottom: 42px;
+	overflow: hidden;
+}
+
+#payment_way li {
+	float: left;
+	width: 120px;
+	margin-right: 80px;
+	border-radius: 15px;
+	font-size: 14px;
+	cursor: pointer;
+	background: #F8F8F8;
+	height: 30px;
+	color: #4A4A4A;
+	border: 1px solid #BEBDBB;
+	background: url(../img/order_details.png);
+	background-size: auto 522px;
+	background-repeat: no-repeat;
+}
+
+#payment_way .zfb {
+	background-position: 17px -421px;
+	text-indent: 50px;
+	line-height: 30px;
+}
+
+#payment_way .wechat {
+	background-position: 24px -495px;
+	text-indent: 60px;
+	line-height: 30px;
+}
+
+.payment_box {
+	height: 42px;
+	background: #F8F8F8;
+	margin-bottom: 140px;
+}
+
+.payment_box p {
+	float: right;
+	width: 272px;
+	height: 42px;
+	background: #e74c3c;
+	color: white;
+	text-align: center;
+	font-size: 18px;
+	line-height: 42px;
+	cursor: pointer;
+}
+
+#payment_way .on {
+	border: 1px solid #FF0000;
+}

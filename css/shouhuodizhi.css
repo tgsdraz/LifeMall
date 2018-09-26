@@ -1,0 +1,327 @@
+@charset "utf-8";
+.meber_center_title b {
+	float: right;
+	color: #e74c3c;
+	padding-right: 20px;
+	font-weight: normal;
+	line-height: 42px;
+	cursor: pointer;
+	font-size: 16px;
+}
+
+.xinzenguser {
+	padding-left: 20px;
+	color: #4A4A4A;
+	padding-top: 31px;
+	padding-bottom: 12px;
+}
+
+.xinzenguser ul {
+	height: 20px;
+	margin-bottom: 19px;
+	overflow: hidden;
+}
+
+.xinzenguser ul li {
+	float: left;
+	font-size: 13px;
+	line-height: 20px;
+	margin-right: 30px;
+}
+
+.xingzengcao {
+	margin-right: 20px;
+	float: right;
+	color: #828282;
+	cursor: pointer;
+	font-size: 13px;
+}
+
+.xingzengcao span:hover {
+	color: red;
+}
+
+#address_form {
+	width: 534px;
+	height: 650px;
+	-webkit-box-shadow: 0 0 5px #CCC;
+	-moz-box-shadow: 0 0 5px #CCC;
+	-ms-box-shadow: 0 0 5px #CCC;
+	box-shadow: 0 0 5px #CCC;
+	margin-top: 26px;
+	margin-left: 20px;
+	padding-top: 28px;
+	position: relative;
+	margin-bottom: 40px;
+	position: relative;
+}
+
+#address_form ul em {
+	color: #e74c3c;
+	padding-left: 4px;
+	padding-right: 4px;
+	font-style: normal;
+}
+
+#address_form ul {
+	/*overflow: hidden;*/
+	height: 30px;
+	font-size: 14px;
+	color: #4A4A4A;
+	margin-bottom: 10px;
+	padding-left: 12px;
+}
+
+#address_form ul li {
+	float: left;
+	line-height: 30px;
+}
+
+#address_form input[type=text] {
+	height: 30px;
+	background: #F8F8F8;
+	border: 0px;
+	outline: 0px;
+	border-radius: 3px;
+}
+
+.nsad {
+	padding-right: 6px;
+	/*letter-spacing: 0px;*/
+	width: 98px;
+}
+
+#address_form ul:nth-of-type(1) input[type=text] {
+	width: 389px;
+}
+
+#address_form ul:nth-of-type(2) input[type=text] {
+	width: 389px;
+}
+
+#address_form ul:nth-of-type(3) input[type=text] {
+	width: 389px;
+}
+
+#address_form ul .add_f_lable {
+	text-align: right;
+}
+
+.gta5 textarea {
+	height: 64px;
+	width: 379px;
+	line-height: 20px;
+	display: inline-block;
+	outline: none;
+	border: none;
+	background: #F8F8F8;
+	padding-left: 10px;
+	padding-top: 4px;
+	resize: none;
+}
+
+.flu_6li_div {
+	width: 190px;
+	height: 114px;
+	float: left;
+	margin-right: 10px;
+	background: url(../img/id_card_picbg.png);
+	background-size: 100%;
+	position: relative;
+}
+
+.webuploader-element-invisible {
+	display: block;
+	width: 100%;
+	height: 100%;
+	opacity: 0;
+}
+
+.flu_6li p {
+	width: 190px;
+	height: 36px;
+	float: left;
+	line-height: 36px;
+	text-align: center;
+	margin-right: 10px;
+}
+
+.flu_6li img {
+	display: block;
+	width: 190px;
+	float: left;
+	margin-top: 8px;
+}
+
+.flu_6li .l {
+	clear: left;
+	margin-left: 0px;
+}
+
+.flu_6li .ll {
+	float: right;
+	margin-right: 10px;
+}
+
+.address_li_dl {
+	padding-top: 15px;
+	padding-left: 104px;
+	padding-bottom: 20px;
+	width: 400px;
+}
+
+.check_em {
+	padding: 0;
+	display: block;
+	width: 16px;
+	background-image: url(../img/checkbox1.png);
+	background-repeat: no-repeat;
+	background-size: 16px 16px;
+	margin-top: 2px;
+	height: 16px
+}
+
+.check_emnew {
+	padding: 0;
+	display: block;
+	width: 16px;
+	background-image: url(../img/checkbox2.png);
+	background-repeat: no-repeat;
+	background-size: 16px 16px;
+	margin-top: 2px;
+	height: 16px
+}
+
+.set_default {
+	overflow: hidden;
+	height: 30px;
+	font-size: 14px;
+	color: #4A4A4A;
+	margin-bottom: 10px;
+	padding-left: 12px;
+}
+
+.checkbox {
+	width: 22px;
+	position: relative;
+	margin-top: 5px;
+	padding-left: 30px;
+}
+
+.checkbox input {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 16px;
+	opacity: 0;
+	height: 16px;
+	margin-left: 30px;
+}
+
+.set_a li {
+	display: block;
+	padding-top: 30px;
+	padding-left: 20px;
+}
+
+.check_a {
+	display: block;
+	padding-top: 30px;
+	padding-left: 20px;
+}
+
+.submitcheck {
+	float: right;
+	display: inline;
+	width: 130px;
+	height: 36px;
+	background: #e74c3c;
+	text-align: center;
+	line-height: 36px;
+	color: white;
+	font-size: 14px;
+	margin-right: 34px;
+	border-radius: 3px;
+	cursor: pointer;
+}
+
+.sel div p {
+	color: #828282;
+}
+
+.sel p {
+	text-align: center;
+	padding-right: 24px;
+}
+
+.sel em {
+	width: 12px;
+	height: 10px;
+	position: absolute;
+	background: red;
+	top: 12px;
+	right: 8px;
+	background: url(../img/sel_sj.png) no-repeat;
+	background-size: 100% auto;
+	-webkit-transition: -webkit-transform 0.2s;
+}
+
+.sel {
+	width: 84px;
+	height: 30px;
+	margin-right: 12px;
+}
+
+.sel div {
+	width: 100%;
+	height: 100%;
+	background: #F8F8F8;
+	border-radius: 3px;
+	position: relative;
+}
+
+.addresss_form>ul.address_details textarea {
+	height: 64px;
+	width: 265px;
+	line-height: 20px;
+	display: inline-block;
+	outline: none;
+	border: none;
+	background: #F8F8F8;
+	padding-left: 10px;
+	padding-top: 4px;
+	resize: none;
+}
+
+.sel div dl {
+	position: absolute;
+	right: 0px;
+	z-index: 100;
+	top: 0px;
+	width: 88px;
+	background: white;
+	border-radius: 3px;
+	box-shadow: 0px 0px 4px #CCCCCC;
+	text-align: center;
+	max-height: 270px;
+	display: none;
+	background: #FBFBFB;
+}
+
+.onError {
+	color: red;
+	position: absolute;
+	top: 0;
+	left: 200px;
+}
+
+.onSuccess {
+	color: red;
+	position: absolute;
+	top: 0;
+	left: 200px;
+}
+.add_select select{
+	border: 2px solid #f8f8f8;
+	border-radius: 3px;
+}

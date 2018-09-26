@@ -1,0 +1,99 @@
+@charset "utf-8";
+.zhuce_bg {
+	background-color: #F8F8F8;
+	height: 50px;
+	line-height: 50px;
+	margin-bottom: 60px;
+}
+
+.zhuce_box {
+	width: 990px;
+	margin:auto;
+	margin-bottom: 80px;
+	
+}
+
+.zhuce_form {
+	font-size: 18px;
+	margin-right: 32px;
+	margin-top: 70px;
+}
+
+.zhuce_form input[type=text] {
+	width: 260px;
+	border: 1px solid #BEBDBB;
+	height: 34px;
+	line-height: 34px;
+	border-radius: 3px;
+	text-indent: 6px;
+	margin-bottom: 35px;
+	font-weight: 100;
+	font-size: 13px;
+}
+
+.photo_duanxin input[type=text] {
+	width: 160px;
+	height: 34px;
+}
+
+.photo_duanxin b {
+	width: 93px;
+	height: 34px;
+	font-size: 13px;
+	color: #e74c3c;
+	font-weight: normal;
+	line-height: 34px;
+	border: 1px solid #e74c3c;
+	text-align: center;
+	cursor: pointer;
+	border-radius: 3px;
+	display: inline-block;
+}
+
+.photo_sub input[type=submit] {
+	width: 263px;
+	height: 36px;
+	background: #e74c3c;
+	color: white;
+	font-size: 14px;
+	font-weight: normal;
+	border: 0;
+}
+
+.zhuce_form .xieyi,
+.zhuce_form .xieyi a {
+	font-size: 12px;
+	color: #BEBDBB;
+	text-align: center;
+	width: 263px;
+	margin-top: 20px;
+}
+
+.zhuce_form .xieyi a {
+	text-decoration: underline;
+}
+
+.loand_may span {
+	color: #e74c3c;
+	font-size: 13px;
+}
+
+.loand_may {
+	margin-top: 25px;
+}
+
+
+/*表单验证*/
+
+#photo_num-error {
+	display: block;
+	position: absolute;
+	top: -16px;
+	left: 6px;
+	color: #e74c3c;
+	font-size: 12px;
+}
+form{
+	display: block;
+	margin-bottom: 80px;
+}

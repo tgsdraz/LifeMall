@@ -1,0 +1,112 @@
+@charset "utf-8";
+.you-bg {
+	background: url(../img/8148121_205018456391_2.jpg)no-repeat center top;
+	width: 100%;
+	height: 420px;
+}
+
+
+/*第二块*/
+
+.inline {
+	margin-left: 50px;
+	width: 300px;
+}
+
+.inline p {
+	font-size: 28px;
+	color: #4A4A4A;
+	margin: 20px 0 20px 0;
+}
+
+.mar-top {
+	margin-top: 100px;
+}
+
+.inline .cont {
+	line-height: 28px;
+	color: #4A4A4A;
+	font-size: 14px;
+	font-family: "微软雅黑";
+	padding-top: 30px;
+	margin-top: 18px;
+}
+
+.border {
+	border-bottom: 1px #333333 solid;
+	margin: 20px 0px 20px 0px;
+	width: 300px;
+}
+
+
+/*买手*/
+
+.b_title {
+	color: #4A4A4A;
+	font-size: 28px;
+	font-family: "微软雅黑";
+	margin: 20px 0 20px 0;
+}
+
+.b_cont {
+	line-height: 28px;
+	margin-bottom: 30px;
+	color: #4A4A4A;
+	font-size: 14px;
+}
+
+
+/*在售品类*/
+
+.s_title {
+	color: #4A4A4A;
+	font-size: 28px;
+	font-family: "微软雅黑";
+	margin: 20px 0 20px 0;
+}
+
+.cente {
+	text-align: center;
+}
+
+.s_cont {
+	line-height: 28px;
+	margin-bottom: 30px;
+	color: #4A4A4A;
+	font-size: 14px;
+	font-family: "微软雅黑";
+}
+
+.cente img {
+	padding-top: 30px;
+}
+
+.numbers {
+	background: url(../img/number.jpg) center no-repeat;
+	background-size: 100%;
+	height: 200px;
+	margin-bottom: 100px;
+	margin-top: 100px;
+}
+
+
+/*品质生活*/
+
+.fl img {
+	margin-left: 50px;
+}
+
+.fl .yingwen {
+	margin-left: 0px;
+}
+
+
+/*在线平台*/
+
+.fl .fen-online {
+	margin-left: 0px;
+}
+
+.mar-bottom {
+	margin-bottom: 30px;
+}

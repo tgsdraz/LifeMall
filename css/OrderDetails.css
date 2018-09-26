@@ -1,0 +1,337 @@
+@charset "utf-8";
+.zhuce_bg {
+	background-color: #F8F8F8;
+	height: 50px;
+	line-height: 50px;
+	margin-bottom: 60px;
+}
+
+.lujing_top {
+	padding-bottom: 60px;
+}
+
+.lujing_top .right li.l {
+	margin-left: 52px;
+}
+
+.lujing_top .line_l {
+	margin-left: 25px;
+	border-top: 2px solid #e74c3c;
+}
+
+.lujing_top .line_r {
+	margin-right: 20px;
+	border-top: 2px dashed #BEBDBB;
+}
+
+.lujing_top .f {
+	color: #e74c3c;
+}
+
+.lujing_top .right li.m {
+	color: #e74c3c;
+	margin-left: 62px;
+}
+
+.lujing_top .right li.l {
+	margin-left: 52px;
+}
+
+.lujing_top .right ul li em {
+	background-image: url(../img/order_status_bad.png);
+	width: 19px;
+	height: 19px;
+	position: absolute;
+	top: -24px;
+	left: 50%;
+	margin-left: -9px;
+	background-size: 100% 100%;
+}
+
+.lujing_top .right p {
+	width: 96px;
+	height: 0px;
+	overflow-y: hidden;
+	float: left;
+}
+
+.lujing_top .right ul {
+	font-size: 12px;
+	padding-top: 16px;
+}
+
+.lujing_top .right ul li em.on {
+	background-image: url(../img/order_status_ok.png);
+	color: #e74c3c;
+}
+
+
+/*支付*/
+
+.order_details h5 {
+	color: #000000;
+	font-size: 20px;
+}
+
+.order_details p {
+	font-size: 16px;
+	margin-top: 10px;
+}
+
+.order_details {
+	margin-bottom: 60px;
+}
+
+.payment {
+	background: url(../img/order_details.png) no-repeat;
+	width: 70px;
+	height: 54px;
+	background-position: 0 -142px;
+	left: 520px;
+	top: 4px;
+	position: absolute;
+}
+
+.xinxi_bg {
+	color: #000000;
+	font-size: 16px;
+	height: 42px;
+	background: #F8F8F8;
+	text-indent: 25px;
+	width: 100%;
+	line-height: 42px;
+}
+
+.good_msg {
+	padding-left: 25px;
+	font-size: 14px;
+}
+
+.good_msg h6 {
+	margin-top: 42px;
+}
+
+.good_msg h4 {
+	margin-top: 26px;
+	margin-bottom: 42px;
+}
+
+.good_msg h4 span {
+	margin-left: 5px;
+	display: inline-block;
+}
+
+.item_title {
+	height: 42px;
+	background: #F8F8F8;
+	text-indent: 12px;
+	width: 100%;
+	line-height: 42px;
+}
+
+.item_title .msg {
+	width: 244px;
+	text-align: right;
+}
+
+.item_title b {
+	display: inline-block;
+	font-size: 16px;
+	font-weight: normal;
+	line-height: 42px;
+}
+
+.item_title .property {
+	width: 300px;
+	text-align: right;
+}
+
+.item_title .price {
+	width: 175px;
+	text-align: right;
+}
+
+.item_title .num {
+	width: 175px;
+	text-align: right;
+}
+
+.item_title .tol {
+	width: 175px;
+	text-align: right;
+}
+
+.p_status {
+	height: 38px;
+	line-height: 38px;
+	margin-top: 22px;
+	margin-left: 25px;
+	margin-bottom: 1px;
+	border-bottom: 1px dashed #4A4A4A;
+}
+
+.p_status b {
+	float: right;
+	display: inline-block;
+	margin-right: 73px;
+	font-weight: normal;
+	font-size: 13px;
+	color: #E74C3C;
+	line-height: 34px;
+}
+
+.p_status span {
+	display: inline-block;
+	width: 50px;
+	height: 24px;
+	background: url(../img/pack_bg.png);
+	background-size: 100% 100%;
+	text-align: center;
+	line-height: 24px;
+}
+
+.p_status em {
+	font-size: 13px;
+	color: #4A4A4A;
+	margin-left: 12px;
+}
+
+.p_status em {
+	font-size: 13px;
+	color: #4A4A4A;
+	margin-left: 12px;
+}
+
+em {
+	font-style: normal;
+}
+
+.pack_logistics {
+	padding-left: 25px;
+	height: 40px;
+	line-height: 40px;
+	background: #F8F8F8;
+	position: relative;
+}
+
+.pack_logistics a {
+	float: right;
+	display: inline-block;
+	margin-right: 60px;
+	color: #828282;
+}
+
+.pack_logistics img {
+	position: absolute;
+	left: 39px;
+	top: 10px;
+}
+
+.pack_logistics span.time {
+	padding-left: 40px;
+}
+
+.pack_logistics span {
+	margin-left: 24px;
+}
+
+.qingdan ul {
+	height: 130px;
+	border-bottom: 1px solid #F8F8F8;
+	overflow: hidden;
+	font-size: 13px;
+}
+
+.qingdan ul li {
+	float: left;
+}
+
+.qingdan ul li.msg {
+	width: 450px;
+}
+
+.qingdan ul li dl {
+	margin-left: 14px;
+	margin-top: 20px;
+}
+
+.qingdan ul li dl dt {
+	width: 90px;
+	height: 90px;
+	margin-right: 25px;
+	float: left;
+}
+
+.qingdan ul li dl dd {
+	float: left;
+	width: 236px;
+	padding-top: 25px;
+	color: #4A4A4A;
+	line-height: 16px;
+	font-size: 14px;
+}
+
+.qingdan ul li.price {
+	padding-top: 56px;
+	width: 124px;
+	text-align: right;
+}
+
+.qingdan ul li.num {
+	width: 150px;
+	padding-top: 56px;
+	text-align: right;
+}
+
+.qingdan ul li.tol {
+	width: 196px;
+	padding-top: 56px;
+	text-align: right;
+}
+
+.qingdan ul li.propety {
+	width: 168px;
+	text-align: center;
+	padding-top: 48px;
+}
+
+.coupons_main {
+	margin-bottom: 80px;
+	padding: 20px 0;
+	height: 350px;
+	background: #F8F8F8;
+}
+
+.coupons_main ul {
+	list-style: none;
+	float: right;
+	padding-right: 50px;
+	margin-bottom: 25px;
+	clear: both;
+}
+
+.coupons_main li.label {
+	text-align: right;
+}
+
+.coupons_main ul>li.money {
+	min-width: 76px;
+	text-align: right;
+}
+
+.coupons_main ul>li {
+	float: left;
+	font-size: 13px;
+	color: #4A4A4A;
+	line-height: 22px;
+}
+
+.coupons_main div.actual_m {
+	float: right;
+	clear: both;
+	display: inline;
+	font-size: 18px;
+	color: #e74c3c;
+	margin-bottom: 28px;
+	margin-right: 51px;
+}

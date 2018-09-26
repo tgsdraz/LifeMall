@@ -1,0 +1,72 @@
+@charset "utf-8";
+.footer{
+	margin-top: 70px;
+}
+.zimu_box .brand_list li{
+	margin-left: 30px;
+}
+.zimu_box .brand_list li a:hover{
+	color: #e74c3c;
+}
+.zimu_bbox .left img,
+.zimu_bbox .left span,
+.zimu_bbox .left i{
+	display: block;
+}
+.zimu_bbox p{
+	color: #828282;
+    padding: 0px 15px 0px 15px;
+    text-align: center;
+    line-height: 18px;
+    width: 186px;
+}
+.overflow{
+	overflow: hidden;
+}
+.ad{
+	background-position: -2px -215px;
+	width: 30px;
+	height: 38px;
+	-webkit-transform: scale(0.5);
+	-moz-transform: scale(0.5);
+	-ms-transform: scale(0.5);
+	-o-transform: scale(0.5);
+	transform: scale(0.5);
+	position: relative;
+	top: -9px;
+	margin-left: 70px;
+}
+.zimu_nav .left img{
+	margin-top: 22px;
+	margin-left: 60px;
+	margin-bottom: 22px;
+}
+.zimu_title{
+	height: 66px;
+    display: table-cell;
+    vertical-align: bottom;
+    font-size: 20px;
+    font-weight: bold;
+    color: #4A4A4A;
+}
+.zimu_nav{
+	/*border: 1px solid #CCCCCC;*/
+	width: 556px;
+    height: 210px;
+	-webkit-box-shadow: 0 0 10px #CCC;
+	-moz-box-shadow: 0 0 10px #CCC;
+	box-shadow: 0 0 10px #CCC;
+	margin-top: 30px;
+	margin-left: 5px;
+	margin-right: 25px;
+}
+.zimu_box .container{
+	border-bottom: 1px solid #f8f8f8;
+}
+.zimu_nav_box{
+	width: 1300px;
+}
+.pinpai_box .container{
+	border-bottom: 1px solid #f8f8f8;
+}
+

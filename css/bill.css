@@ -1,0 +1,97 @@
+@charset "utf-8";
+.dazi a {
+	font-weight: bold;
+	font-size: 15px;
+	color: #4A4A4A;
+}
+
+.mar-top {
+	margin-top: 50px;
+}
+
+.footer a:hover {
+	color: #666;
+	/*background-color:#f8f8f8;*/
+}
+
+
+/*发票*/
+
+.guide_main {
+	width: 850px;
+	margin: 0px 0px 0px 100px
+}
+
+.border-xian {
+	border-bottom: 1px darkgrey solid;
+	margin: 0px 0 30px 0;
+}
+
+h3 {
+	font-size: 32px;
+	color: #4A4A4A;
+	margin-bottom: 40px;
+	line-height: 32px;
+}
+
+.downwords {
+	font-size: 14px;
+	color: #4A4A4A;
+}
+
+.shuifa {
+	margin-bottom: 56px;
+}
+
+.content p {
+	padding: 8px 0px 8px 0px;
+}
+
+.content .cont {
+	padding-left: 34px;
+}
+
+.upwords {
+	font-size: 15px;
+	color: #4A4A4A;
+	font-weight: bold;
+}
+
+.upxia {
+	padding: 8px 0px 8px 0px;
+}
+
+
+/*配送范围*/
+
+.firstTr {
+	background: #ECECEC;
+}
+
+.firstTr td {
+	color: #9B9B9B;
+}
+
+.firstTr .rightLine {
+	border-right: 1px solid #fff;
+}
+
+.content table td {
+	border: 1px solid #ECECEC;
+	color: #4A4A4A;
+	font-size: 14px;
+	padding: 6px 0 6px 0;
+	text-align: center;
+}
+
+.mar-bot {
+	margin-bottom: 40px;
+}
+
+.baozhea {
+	margin-bottom: 100px;
+}
+
+.buyiyang p {
+	padding: 6px 0 6px 0;
+}
